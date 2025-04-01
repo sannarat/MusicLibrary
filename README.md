@@ -34,5 +34,5 @@
 - **Likes** — система лайков.
 #
 
-## Схема классов ![scheme](scheme/file.jpg)
+## Схема классов ![scheme](scheme/file.png)
 
