@@ -34,5 +34,5 @@
 - **Likes** — система лайков.
 #
 
-## Схема классов ![scheme](https://raw.githubusercontent.com/sannarat/MusicLibrary/main/scgeme/file.jpg)
+## Схема классов ![scheme](scheme/file.jpg)
 
